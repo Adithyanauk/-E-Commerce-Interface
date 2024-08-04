@@ -1,4 +1,6 @@
-                                ![Screenshot 2024-08-03 222137](https://github.com/user-attachments/assets/ee476b5a-cf68-4829-8c54-341c264c90b1)
+![Screenshot 2024-08-02 210231](https://github.com/user-attachments/assets/ed63510c-47ac-449a-8a5f-3675c104d075)
+![Screenshot 2024-08-04 104734](https://github.com/user-attachments/assets/42a6bbe2-d72c-4942-b1c3-e4f2616b4497)
+
                   Antique Co. - E-Commerce Interface
 Welcome to the Antique Co. e-commerce website! This project represents the e-commerce interface I designed during my UI/UX Design internship at CodSoft.
 
