@@ -1,4 +1,5 @@
-![Screenshot 2024-08-02 210231](https://github.com/user-attachments/assets/ed63510c-47ac-449a-8a5f-3675c104d075)
+![Screenshot 2024-08-03 222137](https://github.com/user-attachments/assets/075ed0ea-fbae-4b5c-8de6-291f210ed2ca)
+
 ![Screenshot 2024-08-04 104734](https://github.com/user-attachments/assets/42a6bbe2-d72c-4942-b1c3-e4f2616b4497)
 
                   Antique Co. - E-Commerce Interface
